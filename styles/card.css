@@ -61,8 +61,7 @@
         font-size: 22px;
     }
     .card__title::before {
-        left: -90px;
-        
+        left: -90px; 
     }
     .card__desc {
         font-size: 16px;
